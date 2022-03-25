@@ -2,9 +2,9 @@ Package: diviipokemon
 Type: Package
 Title: Golem and Pikachu lives here
 Version: 0.1.0
-Author: Kayley
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Kacey
+Maintainer: The package maintainer <kjeanjacques@smith.edu>
+Description: This package will take the first two pokemon, collect its physical characteristics, organize into a list, and test run for the larger project.
     Use four spaces when indenting paragraphs within the Description.
 License: MIT License
 Encoding: UTF-8
